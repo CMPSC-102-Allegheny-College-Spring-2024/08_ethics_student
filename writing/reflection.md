@@ -32,6 +32,7 @@ What is the technology designed to do? What are its goals and motivations?
 ```
 TODO
 ```
+
 ### Q1
 
 According to your research using the article, is the technology directly or indirectly responsible for the ethical problem? Explain how is that possible?
@@ -86,6 +87,7 @@ How does the technology address concerns related to its potential societal impac
 ```
 TODO
 ```
+
 ### Q8
 
 In your opinion, do you think that the technology is still under some kind of development which could effectively remove the ethical concern?
