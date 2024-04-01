@@ -37,7 +37,7 @@ For instance, as developers create new technologies, the video suggests that, wh
 
 ## Part 1
 
-__In this assignment__, you (working in a partner, if you choose) are to use online search engines to find up to three articles from journalism or scientific literature that discuss a specific _ethical problem_ that results from the usage of computational technology (i.e., the utilization of the technology creates unforeseen problems due to bias, violation of privacy, or similar). You will use the articles to introduce and present the ethical conundrum to the class. __ Remember your study has to originate from your articles which clearly discuss the issue in some detail. Your work will be to present the matter to your class.__
+__In this assignment__, you (working in a partner, if you choose) are to use online search engines to find up to three articles from journalism or scientific literature that discuss a specific _ethical problem_ that results from the usage of computational technology (i.e., the utilization of the technology creates unforeseen problems due to bias, violation of privacy, or similar). You will use the articles to introduce and present the ethical conundrum to the class. __Remember your study has to originate from your articles which clearly discuss the issue in some detail. Your work will be to present the matter to your class.__
 
 For example, you could explore articles that discuss the cyber bullying, body-shaming and /or other undesirable qualities that have emerged from using social networking technologies. Another idea might concern the development a technology that was designed for honest applications, however, the technology is often used for nefarious ends, which were not a part of the original design.
 
