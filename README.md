@@ -53,31 +53,9 @@ __Next lab__: You and your group partner are to present your research of an ethi
 
 - Write a reflection of about 200 words to describe the chosen article and the ethical implication outlined in it. The above-mentioned themes of Part 1 to consider are also to be addressed in your `writing/reflection.md` document.
 
-## GatorGrade Checking
-
-You can also use `gatorgrade` to check the baseline requirements of this assignment by running the following command in your terminal:
-
-`gatorgrade --config config/gatorgrade.yml`
-
-If `gatorgrade` shows that all checks pass, you will know that you have met baseline requirements of this project.
-
-## Submission
-
-As you are working on your lab, you are to commit and push regularly. The commands are the following.
-
-```bash
-git add -A
-git commit -m ``Your notes about commit here''
-git push
-```
-
-After you have pushed your work to your repository, please visit the repository at the GitHub website (you may have to log-in using your browser) to verify that your files were correctly sent.
+- Present the material from your research to the class during the next lab. Note: Each person is expected to speak and to contribute equally to the group's effort.
 
 ## Project Assessment
-
-The grade that a student receives on this assignment will have the following components.
-
-## Assessment
 
 The grade that a student receives on this assignment will have the following components.
 
@@ -104,6 +82,8 @@ git add -A
 git commit -m ``Your notes about commit here''
 git push
 ```
+
+After you have pushed your work to your repository, please visit the repository at the GitHub website (you may have to log-in using your browser) to verify that your files were correctly sent.
 
 ## Seeking Assistance
 
