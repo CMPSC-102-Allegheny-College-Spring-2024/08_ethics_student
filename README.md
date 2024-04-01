@@ -9,14 +9,14 @@ You must present on this day for the lab to be on time.
 ## Title
 Ethical Topics in Discrete Structures
 
-This repository contains information about Discrete Structures lab deliverables. This assignment invites students to investigate articles discussing ethics as associated to Computer Science.
+This repository contains information about Discrete Structures lab deliverables. This assignment invites students to investigate articles discussing ethics as associated with Computer Science.
 
 ## Contents
 
-- [Objectives](#Objectives)
-- [Cloning Your Repository](#Cloning-Your-Repository)
-- [Part 1](#Part-1)
-- [Part 2](#Part-2)
+- [Project Goals](#project-goals)
+- [Motivation](#motivation)
+- [Part 1](#part-1)
+- [Part 2](#part-2)
 - [Deliverables](#Deliverables)
 - [Assessment](#Assessment)
 
@@ -39,7 +39,7 @@ For instance, as developers create new technologies, the video suggests that, wh
 
 __In this assignment__, you (working in a partner, if you choose) are to use online search engines to find up to three articles from journalism or scientific literature that discuss a specific _ethical problem_ that results from the usage of computational technology (i.e., the utilization of the technology creates unforeseen problems due to bias, violation of privacy, or similar). You will use the articles to introduce and present the ethical conundrum to the class. __Remember your study has to originate from your articles which clearly discuss the issue in some detail. Your work will be to present the matter to your class.__
 
-For example, you could explore articles that discuss the cyber bullying, body-shaming and /or other undesirable qualities that have emerged from using social networking technologies. Another idea might concern the development a technology that was designed for honest applications, however, the technology is often used for nefarious ends, which were not a part of the original design.
+For example, you could explore articles that discuss the cyber bullying, body-shaming and /or other undesirable qualities that have emerged from using social networking technologies. Another idea might concern the development of a technology that was designed for honest applications, however, the technology is often used for nefarious ends, which were not a part of the original design.
 
 The abuse caused by technologies due to poor design and development may be another track that you could explore. Facial recognition, for example, was discussed in (Code of Ethics for Facial Recognition)[https://ojs.victoria.ac.nz/wfeess/article/view/7642/6832] by Caitlin Fisher. There are many potential project ideas available by searching keywords relating to ethical topics such as following; "computer crime", "security" ,"privacy", "misinformation (accuracy)", "liability", "responsibility", "intellectual property", "access" and many others.
 
@@ -47,7 +47,7 @@ Once you have located an appropriate article in which terms from computer scienc
 
 ## Part 2
 
-__Next lab__: You and your group partner are to present your research of an ethical problem stemming from code or algorithm-use which from the article. In your presentation, you are describe the articles, state the ethical concern and provide details about how the problem can be resolved. You are encouraged to provide your own ideas about how to prevent harm from being done. Your presentation will last up to ten minutes.
+__Next lab__: You and your group partner are to present your research on an ethical problem stemming from code or algorithm-use from the article. In your presentation, you describe the articles, state the ethical concern and provide details about how the problem can be resolved. You are encouraged to provide your own ideas about how to prevent harm from being done. Your presentation will last up to ten minutes.
 
 ## Deliverables
 
@@ -55,11 +55,11 @@ __Next lab__: You and your group partner are to present your research of an ethi
 
 - Present the material from your research to the class during the next lab. Note: Each person is expected to speak and to contribute equally to the group's effort.
 
-## Project Assessment
+## Assessment
 
 The grade that a student receives on this assignment will have the following components.
 
-- **GitHub Actions CI Build Status [up to 25%]:**: For the lab repository associated with this assignment students will receive a checkmark grade if their last before-the-deadline build passes. This is only checking some baseline writing and commit requirements as well as correct inclusion of files. An additional reduction will given if the commit log shows a cluster of commits at the end clearly used just to pass this requirement. An addition reduction will also be given if there is no commit during lab work times. All other requirements are evaluated manually.
+- **GitHub Actions CI Build Status [up to 25%]:**: For the lab repository associated with this assignment students will receive a checkmark grade if their last before-the-deadline build passes. This is only checking some baseline writing and commit requirements as well as correct inclusion of files. An additional reduction will be given if the commit log shows a cluster of commits at the end clearly used just to pass this requirement. An additional reduction will also be given if there is no commit during lab work times. All other requirements are evaluated manually.
 
 - **Mastery of Technical Writing [up to 40%]:**: Students will also receive a check mark grade when the responses to the writing questions presented in the `reflection.md` reveal a proficiency of both writing skills and scientific knowledge. To receive a check mark grade, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing conceptually and technically accurate answers.
 
