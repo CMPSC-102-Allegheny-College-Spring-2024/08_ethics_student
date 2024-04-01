@@ -50,7 +50,7 @@ TODO
 
 ### Q3
 
-According to the articles, how is the ethical issue related to the technology?
+According to the articles, how is the ethical issue related to technology?
 
 ```
 TODO
